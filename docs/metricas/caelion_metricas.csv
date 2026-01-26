@@ -1,0 +1,14 @@
+Timestamp,DOS_ID,BO_ID,Coherencia_Omega,Costo_V,Eficiencia_E,Observacion
+2026-01-25T12:00:00Z,DOS-01,BO-20260125-000001,1,0,1,Creación del plan de adopción
+2026-01-25T12:01:00Z,DOS-01,BO-20260125-000002,1,0,2,Creación del sistema de logs
+2026-01-25T12:02:00Z,DOS-01,BO-20260125-000003,1,0,3,Creación de configuración de módulos
+2026-01-25T12:03:00Z,DOS-01,BO-20260125-000004,1,0,4,Creación del Acta de Inicio
+2026-01-25T12:04:00Z,DOS-01,BO-20260125-000005,1,0,5,Creación de especificación DOS-01
+2026-01-25T12:05:00Z,DOS-01,BO-20260125-000006,1,0,6,Consolidación de documentación
+2026-01-25T12:10:00Z,DOS-02,BO-20260125-000007,1,0,1,Creación de especificación DOS-02
+2026-01-25T12:11:00Z,DOS-02,BO-20260125-000008,1,0,2,Conversión a PDF de DOS-02
+2026-01-25T12:15:00Z,DOS-02,BO-20260125-000009,1,0,3,SPC - Búsqueda inicial
+2026-01-25T12:16:00Z,DOS-02,BO-20260125-000010,1,0,4,SPC - Programación de monitoreo
+2026-01-25T12:20:00Z,DOS-02,BO-20260125-000011,1,0,5,SAC - Acción de escritura
+2026-01-25T12:21:00Z,DOS-02,BO-20260125-000012,1,0,6,SAC - Verificación exitosa
+2026-01-25T12:22:00Z,DOS-02,BO-20260125-000013,1,0,7,Creación de informe de implementación
