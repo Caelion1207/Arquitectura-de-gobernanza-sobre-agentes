@@ -269,7 +269,8 @@ Este es un repositorio privado de investigación. La documentación está dispon
 
 ## 📄 Licencia
 
-Repositorio privado. Todos los derechos reservados.
+Creative Commons Attribution–NonCommercial 4.0 International
+(CC BY-NC 4.0)
 
 ---
 
