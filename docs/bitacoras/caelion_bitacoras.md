@@ -428,3 +428,32 @@ Observación: [Detalles adicionales]
 **Carpetas renombradas**: 2 (Archivo Maestro, Documentación Académica)
 
 **Estado**: ✅ Completado
+
+
+---
+
+### BO-20260213-043700-SEARCH-SPC
+**Timestamp**: 2026-02-13 04:37:00 UTC  
+**Herramienta**: `search`, `browser`  
+**DOS Activa**: DOS-03 (Investigacion Instrumental)  
+**Acción**: SPC - Monitoreo de desarrollos en "Arquitectura Cognitiva Externa" y "External Cognitive Architecture"  
+**Consenso de Módulos**:
+  - LIANG: ✅ Sí - Intención Perceptiva definida: Monitorear desarrollos en externalización cognitiva para informar la evolución de ARESK-OBS.
+  - HÉCATE: ✅ Sí - No viola principios éticos.
+  - ARGOS: ✅ Sí - Operación de bajo costo computacional.
+
+**Resultado**: Éxito  
+**Observación**: Búsqueda y análisis completados. Se han identificado y sintetizado los siguientes desarrollos clave:
+
+**Hallazgos Clave**:
+1.  **"The Cognitive Architecture of Digital Externalization" (Skulmowski, 2023):** Este artículo de revisión es un pilar fundamental. Introduce un modelo de *cognitive offloading* basado en la carga cognitiva y define la "triple barrera" que la carga extrínseca impone al aprendizaje. Conceptos como "biological pointers" y el riesgo de "manipulación de la memoria" son directamente relevantes para la arquitectura de gobernanza. La externalización puede llevar a una "ilusión de conocimiento".
+
+2.  **"Integrating Cognitive Architectures with External Environments" (Gunzelmann et al., 2008):** Este trabajo temprano de CMU establece los principios para la integración de arquitecturas cognitivas *internas* con entornos *externos*. Define la necesidad de una infraestructura de interfaz "seamless" que permita al modelo cognitivo percibir, actuar y experimentar consecuencias de forma psicológicamente válida, imponiendo limitaciones humanas. Estos principios son la base para el diseño de cualquier sistema co-cognitivo.
+
+3.  **"Human Cognitive Architecture as an Intelligent Natural Information Processing System" (Kalyuga, 2025):** Este artículo reciente es de alta importancia. Propone un modelo de la arquitectura cognitiva humana con **seis principios operacionales**, añadiendo la **"intención explícita de aprender"** como el factor crítico que distingue la cognición humana y da lugar a la inteligencia como característica emergente. Establece dos dominios de operación (primario/implícito y secundario/explícito) que determinan cómo funcionan los otros cinco principios. Esto sugiere que la arquitectura cognitiva externa debe diseñarse para operar en ambos dominios.
+
+**Tendencias Generales (2025-2026):**
+-   **Preocupación por la Dependencia de la IA:** Existe una creciente literatura sobre la "deuda cognitiva" y la pérdida de pensamiento crítico debido a la externalización excesiva a sistemas de IA.
+-   **Teoría de la Cognición Distribuida:** El marco teórico se está consolidando, viendo la cognición como un proceso distribuido entre individuos, artefactos y el entorno, no solo dentro de la mente.
+
+**Conclusión del SPC:** La investigación sobre Arquitectura Cognitiva Externa está activa y evoluciona rápidamente, con un fuerte enfoque en los efectos de la IA. Los hallazgos validan y enriquecen los fundamentos de la Ingeniería Coignitiva y la arquitectura de ARESK-OBS. El monitoreo continuo es esencial.
